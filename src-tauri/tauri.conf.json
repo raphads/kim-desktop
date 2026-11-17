@@ -18,8 +18,8 @@
         "maximized": true,
         "zoomHotkeysEnabled": false,
         "minWidth": 1024,
-        "minHeight": 700,
-        "decorations": false
+        "minHeight": 700
+        //,"decorations": false
       }
     ],
     "security": {
