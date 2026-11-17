@@ -14,7 +14,12 @@
         "url": "https://raphads.github.io/kim-front/index.html",
         "width": 1200,
         "height": 800,
-        "center": true
+        "center": true,
+        "maximized": true,
+        "zoomHotkeysEnabled": false,
+        "minWidth": 1024,
+        "minHeight": 700,
+        "decorations": false
       }
     ],
     "security": {
