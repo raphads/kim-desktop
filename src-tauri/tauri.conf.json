@@ -19,7 +19,6 @@
         "zoomHotkeysEnabled": false,
         "minWidth": 1024,
         "minHeight": 700
-        //,"decorations": false
       }
     ],
     "security": {
